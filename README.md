@@ -13,5 +13,4 @@ Some characters in a source file don’t actually mean anything. Whitespace is
 often insignificant and comments, by definition, are ignored by the language.
 The scanner usually discards these, leaving a clean sequence of meaningful tokens
 
-
-<img src= https://user-images.githubusercontent.com/76943234/147370557-78bde369-0f8d-4ebc-b031-13234296415f.png width="450">
+<img src= https://user-images.githubusercontent.com/76943234/147370557-78bde369-0f8d-4ebc-b031-13234296415f.png width="450" align="end" hspace="20">
